@@ -1,6 +1,6 @@
 # Fletcher's Tavern website
 
-A one-page static website for Fletcher's Tavern, a bar and grill at 212 Brown Street in Westbrook, Maine. It highlights NFL football, Thursday karaoke, the full kitchen, pool tables and darts, and drink specials.
+A one-page static website for Fletcher's Tavern, a bar and grill at 212 Brown Street in Westbrook, Maine. It highlights NFL football, Thursday karaoke, pizza and the full kitchen, pool tables and darts, and drink specials.
 
 No build step. It is plain HTML, CSS and a few lines of JavaScript:
 
@@ -17,6 +17,7 @@ Anything the tavern still needs to confirm is wrapped in `<span class="tbd">` (o
 - Phone number
 - Drink specials and happy hour
 - Menu prices and the rest of the menu
+- Pizza sizes, toppings, prices and takeout details
 - Karaoke sign-up time
 - Specials for Tuesday, Wednesday and Friday
 

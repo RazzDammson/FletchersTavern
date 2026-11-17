@@ -118,6 +118,7 @@ p { margin: 0 0 1em; }
 .feature__art .art { width: 100%; max-width: 340px; }
 .feature__copy p { color: var(--ink-2); font-size: 1.08rem; max-width: 52ch; }
 .feature--karaoke { background: linear-gradient(180deg, var(--bg), #1d1311); }
+.feature--pizza { background: linear-gradient(180deg, var(--bg), #22150d); }
 .feature--pool { background: linear-gradient(180deg, var(--bg), #0f1a14); }
 .ticks { list-style: none; padding: 0; margin: 20px 0 0; }
 .ticks li { position: relative; padding: 10px 0 10px 32px; border-top: 1px solid var(--line); }
@@ -139,6 +140,8 @@ p { margin: 0 0 1em; }
 .menu__item h3 { color: var(--ink); }
 .menu__item p { color: var(--ink-2); margin: 0; font-size: .97rem; }
 .menu__item .price { position: absolute; left: 22px; bottom: 16px; font-family: var(--display); font-style: normal; color: var(--amber); }
+.menu__item--star { border-color: var(--amber); background: linear-gradient(160deg, rgba(233, 185, 73, .14), var(--bg-3) 60%); }
+.menu__item--star h3::after { content: "Featured"; margin-left: 10px; font: 600 .7rem/1 var(--body); letter-spacing: .1em; color: var(--bg); background: var(--amber); padding: 4px 8px; border-radius: 999px; vertical-align: middle; }
 .note { margin-top: 28px; color: var(--ink-2); font-size: .95rem; }
 
 /* Specials board */
