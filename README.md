@@ -16,8 +16,8 @@ Anything the tavern still needs to confirm is wrapped in `<span class="tbd">` (o
 - Hours for each day, and kitchen hours
 - Phone number
 - Drink specials and happy hour
-- Menu prices and the rest of the menu
-- Pizza sizes, toppings, prices and takeout details
+- The rest of the menu
+- Pizza toppings
 - Karaoke sign-up time
 - Specials for Tuesday, Wednesday and Friday
 
