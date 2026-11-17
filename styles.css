@@ -135,10 +135,9 @@ p { margin: 0 0 1em; }
 /* Kitchen */
 .kitchen { padding: clamp(64px, 10vw, 120px) 0; background: var(--bg-2); border-bottom: 1px solid var(--line); }
 .menu { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
-.menu__item { position: relative; background: var(--bg-3); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 22px 48px; }
+.menu__item { position: relative; background: var(--bg-3); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; }
 .menu__item h3 { color: var(--ink); }
 .menu__item p { color: var(--ink-2); margin: 0; font-size: .97rem; }
-.menu__item .price { position: absolute; left: 22px; bottom: 16px; font-family: var(--display); font-style: normal; color: var(--amber); }
 .menu__item--star { border-color: var(--amber); background: linear-gradient(160deg, rgba(233, 185, 73, .14), var(--bg-3) 60%); }
 .menu__item--star h3::after { content: "Featured"; margin-left: 10px; font: 600 .7rem/1 var(--body); letter-spacing: .1em; color: var(--bg); background: var(--amber); padding: 4px 8px; border-radius: 999px; vertical-align: middle; }
 .note { margin-top: 28px; color: var(--ink-2); font-size: .95rem; }
