@@ -118,7 +118,6 @@ p { margin: 0 0 1em; }
 .feature__art .art { width: 100%; max-width: 340px; }
 .feature__copy p { color: var(--ink-2); font-size: 1.08rem; max-width: 52ch; }
 .feature--karaoke { background: linear-gradient(180deg, var(--bg), #1d1311); }
-.feature--pizza { background: linear-gradient(180deg, var(--bg), #22150d); }
 .feature--pool { background: linear-gradient(180deg, var(--bg), #0f1a14); }
 .ticks { list-style: none; padding: 0; margin: 20px 0 0; }
 .ticks li { position: relative; padding: 10px 0 10px 32px; border-top: 1px solid var(--line); }
