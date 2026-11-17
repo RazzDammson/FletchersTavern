@@ -7,7 +7,7 @@ No build step. It is plain HTML, CSS and a few lines of JavaScript:
 - `index.html` has all the content
 - `styles.css` has the look
 - `script.js` runs the mobile menu
-- `assets/` holds the icon (and is where photos should go)
+- `assets/` holds the logo, icons, and is where photos should go
 
 ## Filling in the placeholders
 
